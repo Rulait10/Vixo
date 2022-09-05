@@ -2,4 +2,4 @@
 
 **Vixo is simple programming language which locate in developing.**
  
-**Welcome to devloping**
+**Welcome to develop**
