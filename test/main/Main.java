@@ -1,4 +1,4 @@
-import vixo.interpereter.*;
+import vixo.interpereter.loader.Loader;
 
 public class Main { 
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Main {
         String code = "";
         Loader vixo = new Loader();
         
-        
+        System.out.println(vixo.interpret(code));
         
     }
 }
